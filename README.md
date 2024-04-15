@@ -27,3 +27,23 @@
   <br />
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
+
+## Table of Contents 📖
+
+- [🗺️ Project Overview](#project-overview-)
+- [✨ Features](#features-)
+   - [ To-Do Features](#to-do-features-)
+- [📋 Requirements](#requirements-)
+- [💡 Usage Examples](#usage-examples-)
+   - [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
+- [🔧 Troubleshooting Tips](#troubleshooting-tips-)
+- [🤝 Contribution Guidelines](#contribution-guidelines-)
+
+
+## Project Overview 🗺️
+**SlideCommentSheetSync** is designed to streamline business processes by automatically transferring @mentioned comments from Google Slides to a designated Google Sheet. This tool is invaluable for teams looking to enhance their workflow and ensure all feedback and notes in presentations are tracked and actionable.
+
+## Features ✨
+- **Automatic Triggering**: Activates whenever a new comment containing "@googlesheet" is added to Google Slides.
+- **Google Sheets Integration**: Automatically adds new comments as rows in a specified Google Sheet with links back to the slide.
+- **Scalability**: Designed with scalability in mind to handle multiple comments and slides efficiently.
